@@ -1,0 +1,18 @@
+{
+  "formato": 1,
+  "publicadoEm": "2026-10-17T10:51:52",
+  "pacotes": {
+    "upsystem": {
+      "versao": "1.1.18.3",
+      "urls": [
+        "UpSystem-1.1.18.3.zip",
+        "https:\/\/github.com\/diegocodigoup\/UpSystem-versoes\/releases\/download\/v1.1.18.3\/UpSystem-1.1.18.3.zip"
+      ],
+      "sha256": "c18b34b84024a9f93eb02bbbad9f902f423e132d3325e3c5e6499925a234f3a5",
+      "tamanho": 75281465,
+      "obrigatoria": false,
+      "exigeScriptBanco": true,
+      "notas": "Configuração no usuário para não abrir tela ao vender produto de restaurante"
+    }
+  }
+}
